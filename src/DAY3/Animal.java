@@ -16,6 +16,6 @@ public class Animal {
         }
     }
     public static void main(String[]args){
-        dog d=new dog(); d.eat(); d.bark(); d.meow();
+        dog d=new dog(); d.eat(); d.bark();
     }
 }
