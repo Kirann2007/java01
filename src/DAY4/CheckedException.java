@@ -1,6 +1,7 @@
 package DAY4;
 import java.io.FileReader;
-import java.io.IDException;
+import java.io
+        .IDException;
 public class CheckedException {
     public static void main(String[]args)
     {
