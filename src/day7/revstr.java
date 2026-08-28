@@ -3,7 +3,7 @@ package day7;
 public class revstr {
     public static void main(String[]args)
     {
-        String str="hello";jhnnn5ggkkk
+        String str="hello";
         StringBuilder result=new StringBuilder();
 
         for(int i=str.length()-1;i>=0;i--)
